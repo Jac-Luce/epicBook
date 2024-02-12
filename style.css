@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/*JUMBOTRON*/
+
+.jumbotron {
+    background: url(jumbotron.jpg);
+    background-size: contain;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.jumbotron h1{
+    margin-left: 130px;
+}
+
+.jumbotron h6{
+    margin-left: 130px;
+    margin-top: 350px;
+    color: rgb(146, 130, 130);
+}
+
+.jumbotron span {
+    margin-left: 10px;
+    font-size: 12px;
+}
+
+/*MAIN*/
+
+.inputSearch {
+    margin-left: 90px;
+}
